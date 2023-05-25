@@ -2,7 +2,7 @@
  * Student ID: B201202053
  * Name: Meryem Berra AVŞAR
  * Lecture: SWE 202 Software Verification And Validation
- * Homework: 1
+ * Homework 1
  * Repository Link: github.com/meryemberra/SWE202-TDD
  * */
 
